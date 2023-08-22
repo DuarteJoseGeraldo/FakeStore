@@ -1,6 +1,6 @@
 import knex from "knex";
 import config from "../../knexfile";
-
+ 
 //formato que a API original armazena e envia
 export type apiProduct = {
   id?: number;
